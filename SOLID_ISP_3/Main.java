@@ -16,7 +16,7 @@ public class Main {
         
         Iphone iphone = new Iphone();
         iphone.makeCall("3333333333");
-        iphone.sendSMS("33333333", "ios ios lods");
+        iphone.sendSMS("33333333", "Hello ios!");
         iphone.browseWeb("https://college.neu.edu.ph/");
         iphone.takePicture();
     }

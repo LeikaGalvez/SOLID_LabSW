@@ -1,4 +1,4 @@
-public class Iphone implements Phone, BrowseWeb, Camera{
+public class Iphone implements Call, SMS, BrowseWeb, Camera{
 
     @Override
     public void takePicture() {

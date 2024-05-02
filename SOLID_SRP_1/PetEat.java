@@ -1,9 +1,9 @@
 package SOLID_SRP_1;
 
-public class Eat {
+public class PetEat {
     public Pet pet;
 
-    public Eat(Pet pet){
+    public PetEat(Pet pet){
         this.pet=pet;
     }
 

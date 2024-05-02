@@ -1,4 +1,4 @@
-public class BasicPhone implements Phone{
+public class BasicPhone implements Call, SMS{
 
     @Override
     public void makeCall(String number) {

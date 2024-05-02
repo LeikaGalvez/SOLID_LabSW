@@ -1,4 +1,4 @@
-public class Samsung implements Phone, BrowseWeb, Camera{
+public class Samsung implements Call, SMS, BrowseWeb, Camera{
 
     @Override
     public void takePicture() {
